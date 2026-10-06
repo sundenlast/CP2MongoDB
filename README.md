@@ -2,6 +2,14 @@
 
 Backend em Python + MongoDB para a biblioteca da faculdade: cadastro de livros e alunos, empréstimos, devoluções com multa e relatórios, tudo por um menu no terminal.
 
+GRUPO:
+
+Felipe Hideki RM98323
+Guilherme Milheiro RM550295
+Jhonatan Curci RM94188
+Enzo Vasconcelos RM550702
+Ricardo Queiroz RM94241
+
 ---
 
 ## 1. Pré-requisitos
